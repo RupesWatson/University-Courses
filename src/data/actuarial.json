@@ -103,5 +103,50 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/dfc76e6a-5025-87a7-9306-b75b58f681a5/actuarial-science?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-kent"
+  },
+  {
+    "name": "University of Edinburgh",
+    "tier": "Red Brick",
+    "overallRank": 20,
+    "subjectRank": 8,
+    "entryGrades": "AAA",
+    "typicalOffer": "AAA",
+    "gradProspects": "84%",
+    "notes": "Verified UCAS 2026 exact title match; Scottish 4-year MA (Hons); strong IFoA recognition",
+    "courseName": "Actuarial Mathematics and Statistics MA (Hons)",
+    "applicationCode": "GN13",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/0d18e74f-08ff-6693-b99c-ff58a4bec679/actuarial-mathematics-and-statistics?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/the-university-of-edinburgh"
+  },
+  {
+    "name": "University of Glasgow",
+    "tier": "Red Brick",
+    "overallRank": 27,
+    "subjectRank": 9,
+    "entryGrades": "AAB",
+    "typicalOffer": "AAA - ABB",
+    "gradProspects": "82%",
+    "notes": "Verified UCAS 2026 close course variant; Scottish 4-year degree",
+    "courseName": "Actuarial Mathematics BSc",
+    "applicationCode": "NG31",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/actuarial-mathematics-glasgow?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+  },
+  {
+    "name": "King's College London",
+    "tier": "Red Brick",
+    "overallRank": 23,
+    "subjectRank": 10,
+    "entryGrades": "A*AA",
+    "typicalOffer": "A*AA",
+    "gradProspects": "85%",
+    "notes": "Verified UCAS 2026 close course variant; Mathematics with Actuarial Science",
+    "courseName": "Mathematics with Actuarial Science BSc",
+    "applicationCode": "GN13",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/mathematics-actuarial-kcl?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/king-s-college-london"
   }
 ]

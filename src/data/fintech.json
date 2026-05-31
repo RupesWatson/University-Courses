@@ -43,5 +43,50 @@
     "sourceUrl": "https://digital.ucas.com/explore/courses/e39aa54c-a19b-4f92-aafe-f719bfb1e8b1/finance-fintech?studyYear=2026",
     "matchType": "exact",
     "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
+  },
+  {
+    "name": "City St George's, University of London",
+    "tier": "One Tier Below",
+    "overallRank": 52,
+    "subjectRank": 4,
+    "entryGrades": "ABB",
+    "typicalOffer": "AAB",
+    "gradProspects": "83%",
+    "notes": "Verified UCAS 2026 close course variant; Finance BSc with FinTech content at Bayes",
+    "courseName": "Finance BSc",
+    "applicationCode": "N300",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/c650927c-a8f5-4369-8b45-282eb777eefa/finance?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/city-st-george-s-university-of-london"
+  },
+  {
+    "name": "University of Glasgow",
+    "tier": "Red Brick",
+    "overallRank": 27,
+    "subjectRank": 5,
+    "entryGrades": "AAB",
+    "typicalOffer": "AAA - ABB",
+    "gradProspects": "82%",
+    "notes": "Verified UCAS 2026 close course variant; Finance & Statistics BSc covers FinTech topics",
+    "courseName": "Finance & Statistics BSc",
+    "applicationCode": "NG33",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/df7581e1-3230-af35-0748-fc2c4cbe809e/finance-and-statistics?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-glasgow"
+  },
+  {
+    "name": "University of Strathclyde",
+    "tier": "One Tier Below",
+    "overallRank": 38,
+    "subjectRank": 6,
+    "entryGrades": "AAA",
+    "typicalOffer": "AAA",
+    "gradProspects": "82%",
+    "notes": "Verified UCAS 2026 close course variant; Finance BA with FinTech specialisation",
+    "courseName": "Finance BA",
+    "applicationCode": "N300",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/3079cd54-dba0-411b-b0c8-89e372e06bd0/finance?studyYear=2026",
+    "matchType": "close",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-strathclyde"
   }
 ]
