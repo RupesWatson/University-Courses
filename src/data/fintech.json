@@ -1,232 +1,47 @@
 [
   {
-    "name": "University of Warwick",
-    "tier": "One Tier Below",
-    "overallRank": 6,
-    "subjectRank": 1,
-    "entryGrades": "AAA",
-    "typicalOffer": "AAA",
-    "gradProspects": "94%",
-    "notes": "Leading fintech research hub; blockchain and digital payments modules included."
-  },
-  {
-    "name": "University of Manchester",
-    "tier": "Red Brick",
-    "overallRank": 19,
-    "subjectRank": 2,
-    "entryGrades": "AAA",
-    "typicalOffer": "AAA",
-    "gradProspects": "91%",
-    "notes": "Alliance Manchester Business School; strong links to Manchester fintech cluster."
-  },
-  {
-    "name": "University of Leeds",
-    "tier": "Red Brick",
-    "overallRank": 18,
-    "subjectRank": 3,
-    "entryGrades": "AAA",
-    "typicalOffer": "AAA",
-    "gradProspects": "88%",
-    "notes": "FinTech West Yorkshire partnerships; open banking and digital finance focus."
-  },
-  {
-    "name": "University of Exeter",
-    "tier": "One Tier Below",
-    "overallRank": 28,
-    "subjectRank": 4,
-    "entryGrades": "AAB",
-    "typicalOffer": "AAB",
-    "gradProspects": "92%",
-    "notes": "Strong fintech graduate outcomes; green fintech and sustainability finance modules."
-  },
-  {
-    "name": "Lancaster University",
-    "tier": "One Tier Below",
-    "overallRank": 22,
-    "subjectRank": 5,
-    "entryGrades": "AAB",
-    "typicalOffer": "AAB",
-    "gradProspects": "85%",
-    "notes": "Embedded cybersecurity and data analytics within fintech curriculum."
-  },
-  {
-    "name": "University of Birmingham",
-    "tier": "Red Brick",
-    "overallRank": 20,
-    "subjectRank": 6,
-    "entryGrades": "AAB",
-    "typicalOffer": "AAB",
-    "gradProspects": "84%",
-    "notes": "Bloomberg terminal access; Midlands fintech ecosystem placement opportunities."
-  },
-  {
-    "name": "Loughborough University",
-    "tier": "One Tier Below",
-    "overallRank": 14,
-    "subjectRank": 7,
-    "entryGrades": "AAB",
-    "typicalOffer": "AAB",
-    "gradProspects": "88%",
-    "notes": "Innovative curriculum blending engineering and finance for digital transformation."
-  },
-  {
     "name": "University of Southampton",
     "tier": "One Tier Below",
-    "overallRank": 16,
-    "subjectRank": 8,
-    "entryGrades": "AAB",
-    "typicalOffer": "AAB",
-    "gradProspects": "81%",
-    "notes": "AI and machine learning applied to financial services; strong tech industry links."
-  },
-  {
-    "name": "University of Bath",
-    "tier": "One Tier Below",
-    "overallRank": 9,
-    "subjectRank": 9,
-    "entryGrades": "AAA",
-    "typicalOffer": "AAA",
-    "gradProspects": "90%",
-    "notes": "Integrated placement year with fintech firms; regulatory technology specialism."
-  },
-  {
-    "name": "University of Bristol",
-    "tier": "Red Brick",
-    "overallRank": 8,
-    "subjectRank": 10,
-    "entryGrades": "AAA",
-    "typicalOffer": "AAA",
-    "gradProspects": "93%",
-    "notes": "Bristol fintech hub proximity; cryptocurrency and DeFi research embedded in course."
-  },
-  {
-    "name": "Aston University",
-    "tier": "One Tier Below",
-    "overallRank": 36,
-    "subjectRank": 11,
-    "entryGrades": "ABB",
-    "typicalOffer": "ABB",
-    "gradProspects": "76%",
-    "notes": "Industry-facing fintech degree; strong placement programme with Birmingham firms."
-  },
-  {
-    "name": "University of Nottingham",
-    "tier": "Red Brick",
-    "overallRank": 28,
-    "subjectRank": 12,
-    "entryGrades": "AAB",
-    "typicalOffer": "AAB",
-    "gradProspects": "84%",
-    "notes": "Fintech modules integrated with traditional finance; digital banking focus."
-  },
-  {
-    "name": "University of Sheffield",
-    "tier": "Red Brick",
     "overallRank": 17,
-    "subjectRank": 13,
-    "entryGrades": "ABB",
-    "typicalOffer": "ABB",
-    "gradProspects": "79%",
-    "notes": "Cross-faculty collaboration between computer science and business school."
-  },
-  {
-    "name": "University of York",
-    "tier": "One Tier Below",
-    "overallRank": 25,
-    "subjectRank": 14,
+    "subjectRank": 1,
     "entryGrades": "AAB",
     "typicalOffer": "AAB",
-    "gradProspects": "80%",
-    "notes": "Data-driven finance curriculum; York Science Park fintech employer connections."
-  },
-  {
-    "name": "Cardiff University",
-    "tier": "Red Brick",
-    "overallRank": 30,
-    "subjectRank": 15,
-    "entryGrades": "ABB",
-    "typicalOffer": "ABB",
-    "gradProspects": "74%",
-    "notes": "Cardiff Capital Region fintech links; open banking and payments specialisms."
-  },
-  {
-    "name": "Newcastle University",
-    "tier": "Red Brick",
-    "overallRank": 34,
-    "subjectRank": 16,
-    "entryGrades": "ABB",
-    "typicalOffer": "ABB",
-    "gradProspects": "77%",
-    "notes": "FinTech North partnerships; growing North East digital finance ecosystem access."
-  },
-  {
-    "name": "University of East Anglia",
-    "tier": "One Tier Below",
-    "overallRank": 32,
-    "subjectRank": 17,
-    "entryGrades": "BBB",
-    "typicalOffer": "BBB",
-    "gradProspects": "75%",
-    "notes": "Emerging fintech programme; focus on digital payments and financial inclusion."
+    "gradProspects": "83%",
+    "notes": "Verified UCAS 2026 exact title match",
+    "courseName": "Finance and Financial Technology",
+    "applicationCode": "F99C",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/dbf00bd8-24d6-4522-a006-9b500feb8c09/finance-and-financial-technology?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-southampton"
   },
   {
     "name": "University of Sussex",
     "tier": "One Tier Below",
-    "overallRank": 42,
-    "subjectRank": 18,
-    "entryGrades": "BBB",
-    "typicalOffer": "BBB",
-    "gradProspects": "72%",
-    "notes": "Brighton tech scene connections; innovation and digital economy focus."
-  },
-  {
-    "name": "University of Leicester",
-    "tier": "Red Brick",
-    "overallRank": 35,
-    "subjectRank": 19,
-    "entryGrades": "BBB",
-    "typicalOffer": "BBB",
-    "gradProspects": "72%",
-    "notes": "Accessible fintech entry; flexible modules blending technology and finance."
+    "overallRank": 43,
+    "subjectRank": 2,
+    "entryGrades": "ABB",
+    "typicalOffer": "ABB",
+    "gradProspects": "71%",
+    "notes": "Verified UCAS 2026 exact title match",
+    "courseName": "Finance and Technology (FinTech)",
+    "applicationCode": "NNG4",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/a03e4f4d-b9e1-42a9-b059-987e518b866a/finance-and-technology-fintech?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-sussex"
   },
   {
     "name": "University of Reading",
     "tier": "Red Brick",
-    "overallRank": 29,
-    "subjectRank": 20,
-    "entryGrades": "BBB",
-    "typicalOffer": "BBB",
-    "gradProspects": "75%",
-    "notes": "ICMA Centre regulatory fintech expertise; strong industry practitioner input."
-  },
-  {
-    "name": "University of Kent",
-    "tier": "One Tier Below",
-    "overallRank": 55,
-    "subjectRank": 21,
-    "entryGrades": "BBB",
-    "typicalOffer": "BBB",
-    "gradProspects": "68%",
-    "notes": "European fintech perspective; Brussels and Paris campus links for EU roles."
-  },
-  {
-    "name": "University of Liverpool",
-    "tier": "Red Brick",
-    "overallRank": 27,
-    "subjectRank": 22,
+    "overallRank": 36,
+    "subjectRank": 3,
     "entryGrades": "ABB",
     "typicalOffer": "ABB",
-    "gradProspects": "76%",
-    "notes": "Fintech modules within broader finance degree; Liverpool ONE business links."
-  },
-  {
-    "name": "University of Hull",
-    "tier": "Red Brick",
-    "overallRank": 71,
-    "subjectRank": null,
-    "entryGrades": "BCC",
-    "typicalOffer": "BCC",
-    "gradProspects": null,
-    "notes": "No dedicated fintech programme; digital finance topics within general finance."
+    "gradProspects": "79%",
+    "notes": "Verified UCAS 2026 exact title match",
+    "courseName": "Finance (FinTech)",
+    "applicationCode": "N360",
+    "sourceUrl": "https://digital.ucas.com/explore/courses/e39aa54c-a19b-4f92-aafe-f719bfb1e8b1/finance-fintech?studyYear=2026",
+    "matchType": "exact",
+    "cugSourceUrl": "https://www.thecompleteuniversityguide.co.uk/universities/university-of-reading"
   }
 ]

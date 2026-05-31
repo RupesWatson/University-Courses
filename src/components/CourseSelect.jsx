@@ -17,7 +17,14 @@ const GROUPS = [
 ];
 
 export default function CourseSelect({ selectedId, onChange }) {
-  const selected = COURSES.find(c => c.id === selectedId) || COURSES[0];
+  const visibleGroups = GROUPS.map(group => ({
+    ...group,
+    ids: group.ids.filter(id => (COURSES.find(course => course.id === id)?.data.length || 0) > 0),
+  })).filter(group => group.ids.length > 0);
+
+  const visibleCourses = COURSES.filter(course => course.data.length > 0);
+  const selected = visibleCourses.find(c => c.id === selectedId) || visibleCourses[0];
+  const verifiedCount = selected.data.length;
 
   return (
     <div className="mb-6">
@@ -32,7 +39,7 @@ export default function CourseSelect({ selectedId, onChange }) {
               onChange={e => onChange(e.target.value)}
               className="w-full appearance-none pl-4 pr-10 py-3 rounded-lg bg-[#0a1f3a] border border-blue-900/50 text-sm text-slate-100 focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500/30 transition-colors cursor-pointer"
             >
-              {GROUPS.map(group => (
+              {visibleGroups.map(group => (
                 <optgroup key={group.label} label={group.label} className="bg-[#0a1f3a]">
                   {group.ids.map(id => {
                     const course = COURSES.find(c => c.id === id);
@@ -52,7 +59,9 @@ export default function CourseSelect({ selectedId, onChange }) {
             </div>
           </div>
           {selected.description && (
-            <div className="mt-1.5 text-[11px] text-slate-600">{selected.description}</div>
+            <div className="mt-1.5 text-[11px] text-slate-600">
+              {selected.description} · {verifiedCount} verified match{verifiedCount === 1 ? '' : 'es'}
+            </div>
           )}
         </div>
 
